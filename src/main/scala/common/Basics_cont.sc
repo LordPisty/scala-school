@@ -1,5 +1,3 @@
-import java.rmi.ServerException
-
 // apply method
 class Foo {}
 object FooMaker {
